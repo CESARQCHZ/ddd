@@ -1,0 +1,90 @@
+.padre{
+    background-color: aqua;
+    padding: 25px 10px 40px 25px;
+    width: 600px;
+    height: 650px;
+    margin: auto;
+    padding: auto ;
+    border-style: dashed;
+    position: relative;
+    
+  
+}
+.hijo1{
+    background-color: rgb(86, 96, 96);
+    
+    width: 550px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+  /*  justify-content: center;
+    align-items: center; */
+    text-align: center;
+    border-radius: 15px;
+
+   
+
+}
+.nieto1{
+    background-color: brown;
+    padding: 20px;
+    border-radius: 15px;
+
+ 
+}
+.bisnieto{
+    background-color: beige;
+    padding: 20px;
+    border-radius: 15px;
+
+
+}
+
+.hija{
+    background-color: rgb(182, 166, 103);
+    padding: 20px;
+    border-radius: 15px;
+
+
+}
+
+.hijo2{
+    background-color: gold;
+    margin-top: 80px;
+    width: 550px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  /*  justify-content: center;
+    align-items: center; */
+    text-align: center;
+    border-radius: 15px;
+
+
+}
+.nieto2{
+    background-color: black;
+    padding: 20px;
+    border-radius: 15px;
+
+ 
+}
+.bisnieto1{
+    background-color: brown;
+    padding: 20px;
+    border-radius: 15px;
+
+
+}
+.bisnieto2{
+    background-color: chartreuse;
+    padding: 20px;
+    border-radius: 15px;
+
+}
+.bisnieto3{
+    background-color: blue;
+    padding: 20px;
+    border-radius: 15px;
+
+}
